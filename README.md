@@ -1,6 +1,4 @@
-# ProblemSolving-Basic
+# ProblemSolving-Basic ( Python3.6 )
 
-## Python 3.6
-
-< section4 >
+## < section4 >
 - Binary search
