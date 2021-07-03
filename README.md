@@ -1,6 +1,6 @@
 # ProblemSolving-Basic ( Python3.6 )
 
-## < section4 >
+## < Chapter 4 >
 - Binary search ( 리스트 원소 위치 탐색 )
 - Binary search : Decision algorithm ( 최대 리본 길이 탐색 )
 - Binary search : Decision algorithm ( 특정 바구니 갯수를 사용해야할 때의 최대 용량 탐색 )
@@ -11,3 +11,6 @@
 - Greedy ( 창고에 짐 분배하기 )
 - Greedy ( 사람들을 태울 수 있는 최소 놀이기구 대수 계산 )
 - Greedy ( 오름차순 순열 구하기 )
+
+## < Chapter 5 >
+- Stack ( 숫자 문자열에서 특정 숫자 제거 후 최대수 구하기 )
