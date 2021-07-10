@@ -5,7 +5,6 @@
 - Binary search-2 : Decision algorithm ( 최대 리본 길이 탐색 )
 - Binary search-3 : Decision algorithm ( 특정 바구니 갯수를 사용해야할 때의 최대 용량 탐색 ) ✨
 - Binary search-4 : Decision algorithm ( 햄스터를 규칙대로 배치할 수 있는 최대 길이 탐색 )
-
 - Greedy-1 ( 진행 가능한 최대 회의 수 )
 - Greedy-2 ( 몸무게 / 키 를 기준으로 선발 가능한 선수의 수 ) ✨
 - Greedy-3 ( 창고에 짐 분배하기 )
@@ -17,14 +16,11 @@
 - Stack-2 ( 쇠막대기 ) ✨
 - Stack-3 ( 중위연산 후위연산 변환 ) ✨
 - Stack-4 ( 후위연산식 계산 ) 
-
 - Queue-1 ( 특정 순서 숫자 제거 )
 - Queue-2 ( 숫자 위치 모니터링 )
 - Queue-3 ( 특정 문자 순서배치 체크 )
-
 - Hash-1 ( 특정 문자열 체크 )
 - Hash-2 ( 아나그램 )
-
 - Heap-1 ( 최소힙 )
 - Heap-2 ( 최대힙 )
 
