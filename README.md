@@ -62,5 +62,6 @@
 - BFS-4 ( 토마토가 익는 날 ) ✨
 
 ## < Chapter 5 >
-- DP-1 ( Button Up / Top Down 리본 자르기 ) ✨
-
+- DP-1 ( Bottom Up / Top Down 리본 자르기 ) ✨
+- DP-2 ( Top Down 계단 오르기 )
+- DP-3 ( Bottom Up 돌다리 건너기 )
