@@ -68,3 +68,5 @@
 - LIS-1 ( 증가수열 ) ✨
 - LIS-2 ( 감소수열 )
 - LIS-3 ( 벽돌 최대 높이 ) ✨
+- LIS-4 ( 알리바바 - Buttom Up ) ✨
+- LIS-5 ( 알리바바 - Top Down )
