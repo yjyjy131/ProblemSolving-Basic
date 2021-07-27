@@ -70,3 +70,4 @@
 - LIS-3 ( 벽돌 최대 높이 ) ✨
 - LIS-4 ( 알리바바 - Buttom Up ) ✨
 - LIS-5 ( 알리바바 - Top Down )
+- Knapsack-1 ( 가방에 보석 담기 ) ✨
