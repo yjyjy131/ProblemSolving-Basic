@@ -72,3 +72,5 @@
 - LIS-5 ( 알리바바 - Top Down )
 - Knapsack-1 ( 가방에 보석 담기 ) ✨
 - Knapsack-2 ( 동전 합 구하기 )
+- Knapsack-3 ( 동전 합 구하기 - 메모리 줄이기 ) ✨
+- Knapsack-4 ( 최대 점수 구하기 )
